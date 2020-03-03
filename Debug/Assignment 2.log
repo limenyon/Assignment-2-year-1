@@ -1,0 +1,27 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Assignment 2.cpp
+d:\users\vsakalinskas\desktop\friday\assignment 2.cpp(682): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+d:\users\vsakalinskas\desktop\friday\assignment 2.cpp(728): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+d:\users\vsakalinskas\desktop\friday\assignment 2.cpp(729): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+d:\users\vsakalinskas\desktop\friday\assignment 2.cpp(732): warning C4244: 'argument': conversion from 'const float' to 'const int', possible loss of data
+TL-Engine2017Debug.lib(TL-Engine.obj) : warning LNK4099: PDB 'TL-Engine.pdb' was not found with 'TL-Engine2017Debug.lib(TL-Engine.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\TL-Engine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(Errors.obj) : warning LNK4099: PDB 'Common.pdb' was not found with 'TL-Engine2017Debug.lib(Errors.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\Common.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXSprite.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXSprite.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXSceneNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXSceneNode.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXModelNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXModelNode.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXModel.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXModel.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXMesh.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXMesh.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXLight.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXLight.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXFont.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXFont.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXEngine.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXEngine.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(TLXCamera.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(TLXCamera.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtSceneNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtSceneNode.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtModel.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtModel.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtMesh.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtMesh.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtLight.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtLight.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtInput.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtInput.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtFont.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtFont.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtEngine.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtEngine.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2017Debug.lib(IrrlichtCamera.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2017Debug.lib(IrrlichtCamera.obj)' or at 'D:\Users\vsakalinskas\Desktop\Friday\3DEngine.pdb'; linking object as if no debug info
+  Assignment 2.vcxproj -> D:\Users\vsakalinskas\Desktop\Friday\\Assignment 2Debug.exe
+  Copying DLLs & shaders...
